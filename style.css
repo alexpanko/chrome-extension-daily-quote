@@ -1,0 +1,76 @@
+html {
+  background-color: #003b95;
+  font-family: 'Avenir Next', BlinkMacSystemFont, -apple-system, Segoe UI,
+    Roboto, Helvetica, Arial, sans-serif;
+  color: #ffffff;
+}
+
+.quoteBox {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-left: -578px;
+  width: 1156px;
+  transform: translate(0%, -50%);
+}
+
+.quoteText {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 72px;
+}
+
+.sourceText {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.sourceUrl {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.sourceUrlIcon {
+  width: 24px;
+  height: 24px;
+  color: #ffffff;
+}
+
+.footerBox {
+  position: absolute;
+  width: 349px;
+  height: 24px;
+  left: 949px;
+  bottom: 64px;
+}
+
+.footerText {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+}
+
+.footerUrl {
+  color: #ffffff;
+}
+
+.quotationMark {
+  position: absolute;
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 192px;
+  line-height: 218px;
+  color: rgba(255, 255, 255, 0.12);
+  left: -64px;
+  top: -24px;
+}
+
