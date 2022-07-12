@@ -4,7 +4,7 @@ For the Booking.com 2022 Hackathon
 
 ## Idea Mockup
 
-![Mockup Image](https://paste.booking.com/s3image.php?image=data/images/5/51zrl7.png)
+![Mockup Image](https://github.com/alexpanko/chrome-extension-daily-quote/blob/main/mockup.png)
 
 ## Description
 
