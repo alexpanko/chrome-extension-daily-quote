@@ -26,6 +26,5 @@ Install your extension
 
 ## Technology/ Stack
 ```
-JavaScript, HTML, CSS
-Fetch API
+JavaScript, HTML, CSS, Fetch API
 ```
